@@ -101,6 +101,7 @@ _________________________________________________________
   ¤¤ Protection ¤¤
   
 ¤ [Protect:on/off]
+¤ [Namelock:on/off]
 ¤ [Pro url:on/off]
 ¤ [Blockinvite:on/off]
 
