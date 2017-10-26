@@ -27,7 +27,7 @@ sys.setdefaultencoding('utf-8')
 i = 0
 c_text = """this is autolike """
 
-helpMessage ="""
+helpMessage ="""Ŧяәәƅoŧ v2.2 
 			 
 ¤ [Id]
 ¤ [Mid]
@@ -1631,7 +1631,7 @@ def bot(op):
                 kk.sendText(msg.to,"K2")
                 ks.sendText(msg.to,"K3")
 #-----------------------------------------------
-#------------------------------------------------------------------
+#-----------------------------------------------
             elif "Ban " in msg.text:
                if msg.toType == 2:
                     if msg.from_ in admin:                                        
@@ -1691,7 +1691,7 @@ def bot(op):
                                     cl.sendText(msg.to,"error")
 #------------------------------------------------#
     #-------------Fungsi Tag All Start---------------#
-            elif msg.text in ["Tagall","Tag all","แทก"]:
+            elif msg.text in ["tagall","tag all","แทก","แท็ก"]:
                   group = cl.getGroup(msg.to)
                   nama = [contact.mid for contact in group.members]
 
