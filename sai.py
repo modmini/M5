@@ -6,7 +6,7 @@ from datetime import datetime
 import time,random,sys,json,codecs,threading,glob,re
 
 cl = LINETCR.LINE()
-cl.login(token="EmqqrQxvSwXyUI18QJn2.PmVJKbFqEeHYheH/INXEGG.63u2yAVGNWIbYjLDORf1asc2NuCptdIx9EzYOWeEx1Q=")
+cl.login(token="EmfnP5WXGt2IQVtaP3L2.PmVJKbFqEeHYheH/INXEGG.Zz04DircOckSC65LxQgr/lcDO+z+hOptrnG9q83XyTA=")
 cl.loginResult()
 
 ki = kk = kc = cl
@@ -106,16 +106,16 @@ wait = {
     "wblack":False,
     "dblack":False,
     "clock":False,
-    "cName":" ",
-    "cName2":"sai2 ",
-    "cName3":"sai3 ",
-    "cName4":"sai4 ",
-    "cName5":"sai5 ",
-    "cName6":"sai6 ",
-    "cName7":"sai7 ",
-    "cName8":"sai8 ",
-    "cName9":"sai9 ",
-    "cName10":"sai10 ",
+    "cName":"   ",
+    "cName2":"   ",
+    "cName3":"   ",
+    "cName4":"   ",
+    "cName5":"   ",
+    "cName6":"   ",
+    "cName7":"   ",
+    "cName8":"   ",
+    "cName9":"   ",
+    "cName10":"   ",
     "blacklist":{"on":True,"members":1},
     "wblacklist":False,
     "dblacklist":False,
